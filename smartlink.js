@@ -1,8 +1,8 @@
 var dataUrl = [
 
-'https://www.effectivegatecpm.com/xzgn2xxb?key=0e6c0dec4a3a59580433be63cc2446b1',
-'https://www.effectivegatecpm.com/xzgn2xxb?key=0e6c0dec4a3a59580433be63cc2446b1',
-'https://www.effectivegatecpm.com/xzgn2xxb?key=0e6c0dec4a3a59580433be63cc2446b1'
+'https://cockygoodness.com/jg8jyya1ai?key=9b8ad9bfc9195e566c757b3203e4208f',
+'https://cockygoodness.com/jg8jyya1ai?key=9b8ad9bfc9195e566c757b3203e4208f',
+'https://cockygoodness.com/jg8jyya1ai?key=9b8ad9bfc9195e566c757b3203e4208f'
 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
